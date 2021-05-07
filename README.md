@@ -82,9 +82,10 @@ IMPORTANT: Toujours aller sur github desktop avant et cliquer sur fetch origin e
 Ouvrir l'explorateur windows sur le dossier du site web (Dans github desktop -> Repository -> Show in explorer).
 Faire clic droit -> Ouvrir avec Code
 
-Configs/ -> Contient la configuration et le choix des couleurs
-Content/ -> Contient tout le texte du site web
-diagnostics-legrandparis.github.io/ -> Contient le code du site une fois compiler
+Architecture des dossiers:
+- Configs/ -> Contient la configuration et le choix des couleurs
+- Content/ -> Contient tout le texte du site web
+- diagnostics-legrandparis.github.io/ -> Contient le code du site une fois compiler
 
 ## Tester localement
 
