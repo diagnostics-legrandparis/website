@@ -1,0 +1,4 @@
+[submodule "diagnostics-legrandparis.github.io"]
+	path = diagnostics-legrandparis.github.io
+	url = https://github.com/diagnostics-legrandparis/diagnostics-legrandparis.github.io.git
+	branch = master
