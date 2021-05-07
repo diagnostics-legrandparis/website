@@ -17,7 +17,7 @@ feature:
     # feature item loop
     - name : "AMIANTE"
       icon : "fas fa-clipboard-check"
-      content : "Le diagnostic amiante consiste à repérer certains matériaux et produits susceptibles de contenir de l’amiante en réalisant une inspection visuelle et des investigations approfondies non destructives.  
+      content : "Le diagnostic amiante consiste à repérer certains matériaux et produits susceptibles de contenir de l’amiante en réalisant une inspection visuelle et des investigations approfondies non destructives. La poussière émise lors de la dégradation de ces matériaux est invisible mais très nocive, elle peut provoquer des cancers ou de graves troubles pulmonaires.
 
 
       **En savoir plus**
@@ -41,7 +41,7 @@ feature:
     # feature item loop
     - name : "PERFORMANCE ÉNERGÉTIQUE (DPE)"
       icon : "fas fa-thermometer-full"
-      content : "Le diagnostic de performance énergétique vise à évaluer la quantité d'énergie et de gaz à effet de serre consommée ou dégagée par un logement. Il identifie et incite à effectuer les travaux qui permettront l’amélioration de la performance énergétique tout en réduisant les émissions de gaz à effet de serre.  
+      content : "Le diagnostic de performance énergétique vise à évaluer la quantité d’énergie et de gaz à effet de serre consommée ou dégagée par un logement. Il incite à effectuer les travaux qui permettront l’amélioration de la performance énergétique tout en réduisant les émissions susceptibles de présenter une menace pour l’environnement.  
 
 
       **En savoir plus**
@@ -79,7 +79,7 @@ feature:
     # feature item loop
     - name : "MESURAGE"
       icon : "fas fa-pencil-ruler"
-      content : "La mention de la superficie de la partie privative d’un logement en copropriété est obligatoire dans tout avant-contrat et dans tout acte authentique de vente.
+      content : "La mention de la superficie de la partie privative d’un logement en copropriété est obligatoire dans tout avant-contrat et dans tout acte authentique de vente. En cas d’erreur supérieure à 5 %, l’acquéreur peut demander une diminution du prix.
 
 
       **En savoir plus**
