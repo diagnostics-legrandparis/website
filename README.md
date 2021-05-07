@@ -85,7 +85,7 @@ Faire clic droit -> Ouvrir avec Code
 Architecture des dossiers:
 - Configs/ -> Contient la configuration et le choix des couleurs
 - Content/ -> Contient tout le texte du site web
-- diagnostics-legrandparis.github.io/ -> Contient le code du site une fois compiler
+- diagnostics-legrandparis.github.io/ -> Contient le code du site une fois compilé
 
 ## Tester localement
 
