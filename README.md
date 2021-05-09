@@ -53,6 +53,7 @@ Dans un PowerShell en mode Admin:
 - choco install vscode
 - choco install git
 - choco install hugo
+- choco install hugo-extended
 
 ## Install github desktop
 
