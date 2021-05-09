@@ -112,31 +112,12 @@ feature:
 service:
   enable : true
   service_item:
-    # service item loop
-    - title : "PLOMB"
-      images:
-      - "images/logo-web-transparent blanc.png"
-      - "images/service-2.png"
-      - "images/service-3.png"
-      content : "Le constat des risques d’exposition au plomb (CREP) consiste à mesurer la concentration en plomb des revêtements du logement pour identifier ceux contenant du plomb et décrire leur état de conservation. Il sert également à repérer les situations de risque de saturnisme infantile ou de dégradation du logement. La recherche de canalisations en plomb ne fait pas partie du diagnostic plomb.
-      
-
-      Le CREP s'applique aux logements (appartement et maison individuelle) construits avant le 1er janvier 1949.
-      
-
-      En cas d’absence de revêtement contenant du plomb ou en présence de revêtements contenant du plomb à des concentrations inférieures au seuil réglementaire, la validité du CREP est illimitée.
-
-
-      En présence de revêtements contenant du plomb à des concentrations supérieures au seuil réglementaire (1mg/cm²), la durée validité du constat est de 1 an, en cas de vente, et de 6 ans en cas de location."
-      button:
-        enable : true
-        label : "Check it out"
-        link : "#"
+    
         
     # service item loop
     - title : "AMIANTE"
       images:
-      - "images/elec.webp"
+      - "images/logo-web-transparent-blanc.png"
       content : "Le diagnostic amiante consiste à repérer certains matériaux et produits susceptibles de contenir de l’amiante en réalisant une inspection visuelle et des investigations approfondies non destructives. La poussière émise lors de la dégradation de ces matériaux est invisible mais très nocive, elle peut provoquer des cancers ou de graves troubles pulmonaires.
       
       
@@ -157,7 +138,28 @@ service:
         enable : true
         label : "Check it out"
         link : "#"
-        
+    
+# service item loop
+    - title : "PLOMB"
+      images:
+      - "images/plomb1.jpg"
+      content : "Le constat des risques d’exposition au plomb (CREP) consiste à mesurer la concentration en plomb des revêtements du logement pour identifier ceux contenant du plomb et décrire leur état de conservation. Il sert également à repérer les situations de risque de saturnisme infantile ou de dégradation du logement. La recherche de canalisations en plomb ne fait pas partie du diagnostic plomb.
+      
+
+      Le CREP s'applique aux logements (appartement et maison individuelle) construits avant le 1er janvier 1949.
+      
+
+      En cas d’absence de revêtement contenant du plomb ou en présence de revêtements contenant du plomb à des concentrations inférieures au seuil réglementaire, la validité du CREP est illimitée.
+
+
+      En présence de revêtements contenant du plomb à des concentrations supérieures au seuil réglementaire (1mg/cm²), la durée validité du constat est de 1 an, en cas de vente, et de 6 ans en cas de location."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "#"
+
+
+
     # service item loop
     - title : "DIAGNOSTIC DE PERFORMANCE ÉNERGÉTIQUE (DPE)"
       images:
@@ -227,6 +229,23 @@ service:
         link : "#"
 
 # service item loop
+    - title : "MESURAGE"
+      images:
+      - "images/mesurage1.jpg"
+      - "images/mesurage2.jpg"
+      content : "La mention de la superficie de la partie privative d’un logement en copropriété est obligatoire dans tout avant-contrat et dans tout acte authentique de vente.
+      
+      
+      Si la superficie réelle mesurée est inférieure de plus de 5 % à la superficie indiquée dans l’acte authentique, l’acquéreur peut, durant un an, demander par jugement la diminution du prix au prorata du nombre de m² manquants.
+      
+      
+      C’est la raison pour laquelle il est recommandé de faire appel à un professionnel couvert par une assurance en responsabilité civile professionnelle qui englobe cette activité."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "#"
+
+# service item loop
     - title : "ÉTAT DES RISQUES ET POLLUTIONS"
       images:
       - "images/erp1.png"
@@ -271,7 +290,7 @@ screenshot:
 call_to_action:
   enable : true
   title : "Contactez-nous !"
-  image : "images/cta.svg"
+  image : "images/logo-web-transparent-blanc.png"
   content : "
   07 67 41 37 77
 
