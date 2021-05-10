@@ -37,6 +37,7 @@
           <i class="{{.icon}} mb-3"></i>
           <h4 class="mb-2">{{ .name | title }}</h4>
           <p>{{ .content | markdownify }}</p>
+          <a href="{{ "diagnostics" | safeURL }}#{{ .button.link}}">{{ .button.label | markdownify }}</a>
         </div>
       </div>
       {{ end }}

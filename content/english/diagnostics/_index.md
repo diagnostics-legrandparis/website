@@ -13,6 +13,7 @@ service:
         
     # service item loop
     - title : "AMIANTE"
+      link: "amiante"
       images:
       - "images/logo-web-transparent-blanc.png"
       content : "Le diagnostic amiante consiste à repérer certains matériaux et produits susceptibles de contenir de l’amiante en réalisant une inspection visuelle et des investigations approfondies non destructives. La poussière émise lors de la dégradation de ces matériaux est invisible mais très nocive, elle peut provoquer des cancers ou de graves troubles pulmonaires.
@@ -38,6 +39,7 @@ service:
     
 # service item loop
     - title : "PLOMB"
+      link: "plomb"
       images:
       - "images/plomb1.jpg"
       content : "Le constat des risques d’exposition au plomb (CREP) consiste à mesurer la concentration en plomb des revêtements du logement pour identifier ceux contenant du plomb et décrire leur état de conservation. Il sert également à repérer les situations de risque de saturnisme infantile ou de dégradation du logement. La recherche de canalisations en plomb ne fait pas partie du diagnostic plomb.
@@ -59,6 +61,7 @@ service:
 
     # service item loop
     - title : "DIAGNOSTIC DE PERFORMANCE ÉNERGÉTIQUE (DPE)"
+      link: "dpe"
       images:
       - "images/dpe1.jpg"
       - "images/dpe2.jpg"
@@ -76,6 +79,7 @@ service:
         
     # service item loop
     - title : "ÉLECTRICITÉ"
+      link: "elec"
       images:
       - "images/elec1.jpg"
       - "images/elec2.jpg"
@@ -93,6 +97,7 @@ service:
 
 # service item loop
     - title : "GAZ"
+      link: "gaz"
       images:
       - "images/gaz1.jpg"
       - "images/gaz2.jpg"
@@ -111,6 +116,7 @@ service:
 
 # service item loop
     - title : "TERMITES"
+      link: "termites"
       images:
       - "images/termites1.jpg"
       - "images/termites2.jpg"
@@ -128,6 +134,7 @@ service:
 
 # service item loop
     - title : "MESURAGE"
+      link: "mesurage"
       images:
       - "images/mesurage1.jpg"
       - "images/mesurage2.jpg"
@@ -145,6 +152,7 @@ service:
 
 # service item loop
     - title : "ÉTAT DES RISQUES ET POLLUTIONS"
+      link: "erp"
       images:
       - "images/erp1.png"
       content : "L’ERP vise à informer l’acquéreur ou le locataire d’un bien immobilier de l’existence des risques et pollutions auxquels ce bien est exposé : naturels, miniers, technologiques, sismiques, radon... 
@@ -161,6 +169,7 @@ service:
 
 # service item loop
     - title : "ÉTAT DES LIEUX"
+      link: "etat"
       images:
       - "images/edl1.jpg"
       - "images/edl2.jpg"
