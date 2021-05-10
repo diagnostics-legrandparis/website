@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = ""
-title = "Bigspring Hugo"
+title = "Diagnostics Le Grand Paris"
 # post pagination
 paginate = "3"
 # post excerpt
