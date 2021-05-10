@@ -1,7 +1,7 @@
 ############################# English ############################
 [en]
 languageName = "FR"
-title = "Bigspring Hugo"
+title = "Diagnostics Le Grand Paris"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
