@@ -5,13 +5,13 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
-url = "blog"
+name = "Diagnostics"
+url = "diagnostics"
 weight = 2
 
 [[main]]
-name = "Diagnostics"
-url = "diagnostics"
+name = "Tarifs"
+url = "tarifs"
 weight = 3
 
 [[main]]

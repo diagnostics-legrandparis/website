@@ -10,7 +10,7 @@ url = "blog"
 weight = 2
 
 [[main]]
-name = "Pricing"
+name = "Tarifs"
 url = "pricing"
 weight = 3
 

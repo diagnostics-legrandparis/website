@@ -14,7 +14,7 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation buttons
 [navigation_button]
-enable = true
+enable = false
 label = "Get Started"
 link = "contact"
 
@@ -23,9 +23,10 @@ link = "contact"
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/diagnosticslegrandparis"
 
 [[social]]
+enable = false
 title = "twitter"
 icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
 link = "#"

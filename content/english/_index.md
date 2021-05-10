@@ -216,6 +216,7 @@ service:
     - title : "TERMITES"
       images:
       - "images/termites1.jpg"
+      - "images/termites2.jpg"
       content : "L'état relatif à la présence de termites est un diagnostic qui donne des informations sur la présence ou non d'insectes xylophages (termites en particulier) dans un logement. Ces insectes peuvent générer des dégâts en dégradant le bois et dérivés utilisés dans la construction. Ils peuvent même occasionner son effondrement. Le diagnostiqueur recherche la présence de termites en réalisant un examen visuel (sans destruction ni démontage) des bois et matériaux présent dans la construction. Cet examen s’étend également à l’environnement du bien, dans un périmètre de 10 mètres. Des poinçonnements, sondages ou l’utilisation d’appareils de détections apportent des indices complémentaires.
       
       

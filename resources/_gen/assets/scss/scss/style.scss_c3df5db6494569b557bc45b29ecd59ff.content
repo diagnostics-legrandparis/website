@@ -199,7 +199,7 @@ a:hover {
   background-repeat: no-repeat; }
 
 .border-default {
-  border-color: #ECECEC !important; }
+  border-color: #FFF !important; }
 
 /* overlay */
 .overlay {
@@ -331,7 +331,7 @@ a.post-title {
 
 .content a {
   color: #c7c7c7;
-  border-bottom: 1px dotted #ECECEC; }
+  border-bottom: 1px dotted #FFF; }
   .content a:hover {
     color: #ff4d4d; }
 
@@ -363,7 +363,7 @@ a.post-title {
   width: 100%;
   max-width: 100%;
   margin-bottom: 1rem;
-  border: 1px solid #ECECEC; }
+  border: 1px solid #FFF; }
 
 .content table td,
 .content table th {
@@ -373,7 +373,7 @@ a.post-title {
 
 .content th:not(:last-of-type),
 .content td:not(:last-of-type) {
-  border-right: 1px solid #ECECEC; }
+  border-right: 1px solid #FFF; }
 
 .content th {
   font-weight: 500; }
@@ -382,7 +382,7 @@ a.post-title {
   background: #4d4d4d;
   margin-bottom: 0; }
   .content thead tr {
-    border-bottom: 1px solid #ECECEC; }
+    border-bottom: 1px solid #FFF; }
 
 .content tbody {
   background-color: transparent;
