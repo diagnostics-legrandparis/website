@@ -24,32 +24,28 @@ weight = 5
 name = "About Us"
 url = "#"
 
-[[footer_left]]
-name = "Quick Start"
-url = "#"
-
 # footer menu middle
 [[footer_middle]]
-name = "Pricing"
-url = "pricing"
+name = "Diagnostics"
+url = "diagnostics"
 
 [[footer_middle]]
-name = "Platform"
-url = "#"
+name = "Tarifs"
+url = "tarifs"
 
 [[footer_middle]]
-name = "Features"
-url = "#"
+name = "FAQ"
+url = "faq"
 
 # footer menu right
 [[footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy"
+name = "Conditions Générales de Vente"
+url = "CGV"
 
 [[footer_right]]
-name = "Terms & Conditions"
+name = "Médiation"
 url = "terms-conditions"
 
 [[footer_right]]
-name = "FAQ"
-url = "faq"
+name = "Mentions légales"
+url = "mentions"
