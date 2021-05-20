@@ -10,11 +10,6 @@ url = "diagnostics"
 weight = 2
 
 [[main]]
-name = "Tarifs"
-url = "tarifs"
-weight = 3
-
-[[main]]
 name = "Contact"
 url = "contact"
 weight = 4
@@ -32,11 +27,6 @@ url = "#"
 [[footer_left]]
 name = "Quick Start"
 url = "#"
-
-[[footer_left]]
-name = "Pricing"
-url = "pricing"
-
 
 # footer menu middle
 [[footer_middle]]
