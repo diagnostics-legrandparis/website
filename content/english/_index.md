@@ -100,11 +100,14 @@ feature:
     # feature item loop
     - name : "ÉTAT DES LIEUX"
       icon : "fas fa-key"
-      content : "A l’occasion de la mise en location d’un bien, un état des lieux d’entrée doit être établi pour être joint au contrat de location et remis avec les clés. Un nouvel état des lieux sera dressé lorsque le locataire quittera le logement et rendra les clés.  
-
-
+      content : "A l’occasion de la mise en location d’un bien, un état des lieux d’entrée doit être établi pour être joint au contrat de location et remis avec les clés. Un nouvel état des lieux sera dressé lorsque le locataire quittera le logement et rendra les clés. 
+      
+      
       **En savoir plus**
       "
+     
+  
+      
       
 
 
@@ -136,7 +139,7 @@ service:
       •	soit des actions correctives et mesures conservatoires pouvant aller jusqu'à des travaux de confinement ou de retrait de l'amiante."
       button:
         enable : true
-        label : "Check it out"
+        label : "Nos tarifs"
         link : "#"
     
 # service item loop
@@ -155,7 +158,7 @@ service:
       En présence de revêtements contenant du plomb à des concentrations supérieures au seuil réglementaire (1mg/cm²), la durée validité du constat est de 1 an, en cas de vente, et de 6 ans en cas de location."
       button:
         enable : true
-        label : "Check it out"
+        label : "Nos tarifs"
         link : "#"
 
 
@@ -174,7 +177,7 @@ service:
       Ce diagnostic est valable 10 ans."
       button:
         enable : true
-        label : "Check it out"
+        label : "Nos tarifs"
         link : "#"
         
     # service item loop
@@ -191,7 +194,7 @@ service:
       Ce diagnostic est valable 3 ans en cas de vente et 6 ans en cas de location."
       button:
         enable : true
-        label : "Check it out"
+        label : "Nos tarifs"
         link : "#"
 
 # service item loop
@@ -208,7 +211,7 @@ service:
       Ce diagnostic est valable 3 ans en cas de vente et 6 ans en cas de location."
       button:
         enable : true
-        label : "Check it out"
+        label : "Nos tarifs"
         link : "#"
 
 
@@ -226,7 +229,7 @@ service:
       Ce diagnostic est valable 6 mois."
       button:
         enable : true
-        label : "Check it out"
+        label : "Nos tarifs"
         link : "#"
 
 # service item loop
@@ -243,7 +246,7 @@ service:
       C’est la raison pour laquelle il est recommandé de faire appel à un professionnel couvert par une assurance en responsabilité civile professionnelle qui englobe cette activité."
       button:
         enable : true
-        label : "Check it out"
+        label : "Nos tarifs"
         link : "#"
 
 # service item loop
@@ -259,7 +262,7 @@ service:
       Ce diagnostic est valable 6 mois."
       button:
         enable : true
-        label : "Check it out"
+        label : "Nos tarifs"
         link : "#"
 
 # service item loop
@@ -276,7 +279,7 @@ service:
       L’état des lieux de sortie permettra une comparaison avec l’état des lieux d’entrée, en cas de litige par exemple. L’état des lieux de sortie permet d’évaluer les travaux à effectuer en cas de dégradations effectuées par le locataire."
       button:
         enable : true
-        label : "Check it out"
+        label : "Nos tarifs"
         link : "#"
 
 ################### Screenshot ########################

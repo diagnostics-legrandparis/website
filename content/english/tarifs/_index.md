@@ -1,8 +1,8 @@
 ---
-title: "Pricing"
+title: "Tarifs"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "tarifs"
 draft: false
 
 basic:

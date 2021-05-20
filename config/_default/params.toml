@@ -26,14 +26,13 @@ icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
 link = "https://www.facebook.com/diagnosticslegrandparis"
 
 [[social]]
-enable = false
-title = "twitter"
-icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "#"
+title = "whatsapp"
+icon = "fab fa-whatsapp" # themify icon : https://themify.me/themify-icons
+link = "https://wa.me/message/ZSMJVCABYEXMC1"
 
 [[social]]
-title = "skype"
-icon = "fab fa-skype" # themify icon : https://themify.me/themify-icons
+title = "instagram"
+icon = "fab fa-instagram" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 [[social]]
