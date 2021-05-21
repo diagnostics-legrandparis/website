@@ -10,6 +10,11 @@ url = "diagnostics"
 weight = 2
 
 [[main]]
+name = "Tarifs"
+url = "tarifs"
+weight = 3
+
+[[main]]
 name = "Contact"
 url = "contact"
 weight = 4
@@ -21,7 +26,7 @@ weight = 5
 
 # footer menu left
 [[footer_left]]
-name = "About Us"
+name = " "
 url = "#"
 
 # footer menu middle
@@ -44,7 +49,7 @@ url = "CGV"
 
 [[footer_right]]
 name = "Médiation"
-url = "terms-conditions"
+url = "médiation"
 
 [[footer_right]]
 name = "Mentions légales"

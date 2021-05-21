@@ -1,9 +1,9 @@
 ---
-title: "Les diags TODO"
+title: "Nos services"
 subtitle: ""
 # meta description
-description: "This is meta description"
-draft: false
+description: "nos services"
+draft: true
 
 ######################### Service #####################
 service:
@@ -15,7 +15,7 @@ service:
     - title : "AMIANTE"
       link: "amiante"
       images:
-      - "images/logo-web-transparent-blanc.png"
+      - "images/amiante1.jpg"
       content : "Le diagnostic amiante consiste à repérer certains matériaux et produits susceptibles de contenir de l’amiante en réalisant une inspection visuelle et des investigations approfondies non destructives. La poussière émise lors de la dégradation de ces matériaux est invisible mais très nocive, elle peut provoquer des cancers ou de graves troubles pulmonaires.
       
       
@@ -33,9 +33,9 @@ service:
       
       •	soit des actions correctives et mesures conservatoires pouvant aller jusqu'à des travaux de confinement ou de retrait de l'amiante."
       button:
-        enable : false
-        label : "Check it out"
-        link : "#"
+        enable : true
+        label : "Consulez nos tarifs"
+        link : "tarifs"
     
 # service item loop
     - title : "PLOMB"
@@ -53,9 +53,9 @@ service:
 
       En présence de revêtements contenant du plomb à des concentrations supérieures au seuil réglementaire (1mg/cm²), la durée validité du constat est de 1 an, en cas de vente, et de 6 ans en cas de location."
       button:
-        enable : false
-        label : "Check it out"
-        link : "#"
+        enable : true
+        label : "Consulez nos tarifs"
+        link : "tarifs"
 
 
 
@@ -73,9 +73,9 @@ service:
       
       Ce diagnostic est valable 10 ans."
       button:
-        enable : false
-        label : "Check it out"
-        link : "#"
+        enable : true
+        label : "Consulez nos tarifs"
+        link : "tarifs"
         
     # service item loop
     - title : "ÉLECTRICITÉ"
@@ -91,9 +91,9 @@ service:
       
       Ce diagnostic est valable 3 ans en cas de vente et 6 ans en cas de location."
       button:
-        enable : false
-        label : "Check it out"
-        link : "#"
+        enable : true
+        label : "Consulez nos tarifs"
+        link : "tarifs"
 
 # service item loop
     - title : "GAZ"
@@ -109,9 +109,9 @@ service:
       
       Ce diagnostic est valable 3 ans en cas de vente et 6 ans en cas de location."
       button:
-        enable : false
-        label : "Check it out"
-        link : "#"
+        enable : true
+        label : "Consulez nos tarifs"
+        link : "tarifs"
 
 
 # service item loop
@@ -128,9 +128,9 @@ service:
       
       Ce diagnostic est valable 6 mois."
       button:
-        enable : false
-        label : "Check it out"
-        link : "#"
+        enable : true
+        label : "Consulez nos tarifs"
+        link : "tarifs"
 
 # service item loop
     - title : "MESURAGE"
@@ -146,9 +146,9 @@ service:
       
       C’est la raison pour laquelle il est recommandé de faire appel à un professionnel couvert par une assurance en responsabilité civile professionnelle qui englobe cette activité."
       button:
-        enable : false
-        label : "Check it out"
-        link : "#"
+        enable : true
+        label : "Consulez nos tarifs"
+        link : "tarifs"
 
 # service item loop
     - title : "ÉTAT DES RISQUES ET POLLUTIONS"
@@ -163,9 +163,9 @@ service:
       
       Ce diagnostic est valable 6 mois."
       button:
-        enable : false
-        label : "Check it out"
-        link : "#"
+        enable : true
+        label : "Consulez nos tarifs"
+        link : "tarifs"
 
 # service item loop
     - title : "ÉTAT DES LIEUX"
@@ -181,9 +181,9 @@ service:
       
       L’état des lieux de sortie permettra une comparaison avec l’état des lieux d’entrée, en cas de litige par exemple. L’état des lieux de sortie permet d’évaluer les travaux à effectuer en cas de dégradations effectuées par le locataire."
       button:
-        enable : false
-        label : "Check it out"
-        link : "#"
+        enable : true
+        label : "Consulez nos tarifs"
+        link : "tarifs"
 ##################### Call to action #####################
 call_to_action:
   enable : true
