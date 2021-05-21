@@ -1,5 +1,5 @@
 ---
-title: "Nos services"
+title: "Nos Services"
 subtitle: ""
 # meta description
 description: "nos services"

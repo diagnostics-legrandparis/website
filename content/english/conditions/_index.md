@@ -90,7 +90,5 @@ Les coordonnées du médiateur de la consommation dont relève l’établissemen
 CNPM - MEDIATION DE LA CONSOMMATION.
 En cas de litige, vous pouvez déposer votre réclamation sur son site : https://cnpm-mediation-consommation.eu ou par voie postale en écrivant à CNPM - MEDIATION - CONSOMMATION – 27 avenue de la libération 42400 SAINT-CHAMOND.
 
-https://www.cnpm-mediation-consommation.eu/
-
 #### LITIGES
 Le présent contrat est soumis à la législation française. En vue de trouver ensemble une solution à tout litige qui surviendrait dans l’exécution du présent contrat, les contractants conviennent de se réunir dans les 10 jours à compter de la réception d’une Lettre Recommandée avec Accusé de Réception, notifiée par l’une des deux parties. Si aux termes d’un délai de 15 jours, les parties n’arrivaient pas à se mettre d’accord sur un compromis ou une solution, tout litige relatif à la conclusion, l’interprétation, l’exécution ou la cessation du présent contrat serait soumis aux tribunaux, auxquels est rattaché le siège social de la Société. 

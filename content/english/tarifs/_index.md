@@ -1,6 +1,6 @@
 ---
-title: "Tarifs"
-subtitle: ""
+title: "Nos Tarifs"
+subtitle: "page en construction"
 # meta description
 description: "tarifs"
 draft: false

@@ -3,7 +3,7 @@
 banner:
   title : "Diagnostics Le Grand Paris"
   image : "images/diaglegrandparis.jpg"
-  content : "Diagnostics techniques immobiliers & États des lieux </br> en Essonne, Yvelines, Hauts-de-Seine, Val-de-Marne"
+  content : "Diagnostics techniques immobiliers & États des lieux </br> en **Essonne**, **Yvelines**, **Hauts-de-Seine**, **Val-de-Marne**"
   button:
     enable : true
     label : "Contactez-nous"
@@ -12,7 +12,7 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Diagnostics TODO"
+  title : "Nos Services"
   feature_item:
     # feature item loop
     - name : "AMIANTE"

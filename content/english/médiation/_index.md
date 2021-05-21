@@ -6,8 +6,16 @@ description: "médiation"
 draft: false
 ---
 
-#### Responsibility of Contributors
+#### MÉDIATEUR DE LA CONSOMMATION
+Aux termes de l’article L612-1 du Code de la Consommation « Tout consommateur a le droit de recourir gratuitement à un médiateur de la consommation en vue de la résolution amiable du litige qui l'oppose à un professionnel. À cet effet, le professionnel garantit au consommateur le recours effectif à un dispositif de médiation de la consommation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Le professionnel peut mettre en place son propre dispositif de médiation de la consommation ou proposer au consommateur le recours à tout autre médiateur de la consommation répondant aux exigences du présent titre.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+Lorsqu'il existe un médiateur de la consommation dont la compétence s'étend à l'ensemble des entreprises d'un domaine d'activité économique dont il relève, le professionnel permet toujours au consommateur d'y recourir.
+
+Les modalités selon lesquelles le processus de médiation est mis en œuvre sont précisées par décret en Conseil d'Etat ».
+
+Les coordonnées du médiateur de la consommation dont relève l’établissement sont les suivantes :
+
+CNPM - MEDIATION DE LA CONSOMMATION.
+En cas de litige, vous pouvez déposer votre réclamation sur son site : https://cnpm-mediation-consommation.eu ou par voie postale en écrivant à CNPM - MEDIATION - CONSOMMATION – 27 avenue de la libération 42400 SAINT-CHAMOND.
