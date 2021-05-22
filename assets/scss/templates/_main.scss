@@ -20,6 +20,16 @@
   }
 }
 
+.table-title-logo {
+  svg {
+    font-size: 50px;
+    color: $primary-color;
+    display: inline-block;
+  }
+}
+
+
+
 .footer-list a {
   display: block;
   padding: 5px 0;
