@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-subtitle: ""
+subtitle: "Diagnostics techniques immobiliers & États des lieux </br> en **Essonne**, **Yvelines**, **Hauts-de-Seine**, **Val-de-Marne**"
 # meta description
 description: "Contact"
 draft: false
