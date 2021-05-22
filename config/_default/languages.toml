@@ -1,8 +1,8 @@
 ############################# English ############################
-[FR]
+[fr]
 languageName = "FR"
 title = "Diagnostics Le Grand Paris"
-contentDir = "content/english" # content/english
+contentDir = "content/french"
 weight = 1
 ########### footer content ##########
 footer_menu_left = "Assurance & Certifications"

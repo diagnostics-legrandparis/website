@@ -376,7 +376,12 @@ a.post-title {
   border-right: 1px solid #FFF; }
 
 .content th {
-  font-weight: 500; }
+  font-weight: 600;
+  color: #FFF;
+  border-bottom: 1px solid #FFF; }
+
+.content td:first-child {
+  color: #FFF; }
 
 .content thead {
   background: #4d4d4d;

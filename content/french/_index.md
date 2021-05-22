@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title : "Diagnostics Le Grand Paris"
-  image : "images/diaglegrandparis.jpg"
+  image : "images/diaglegrandparissmall.jpg"
   content : "Diagnostics techniques immobiliers & États des lieux </br> en **Essonne**, **Yvelines**, **Hauts-de-Seine**, **Val-de-Marne**"
   button:
     enable : true

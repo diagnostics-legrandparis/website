@@ -145,7 +145,13 @@ a.post-title {
   }
 
   th {
-    font-weight: 500;
+    font-weight: 600;
+    color: $text_color_dark;
+    border-bottom: 1px solid $border-color;
+  }
+
+  td:first-child {
+    color: $text_color_dark;
   }
 
   thead {
