@@ -1,6 +1,6 @@
 ---
 title: "Conditions Générales de Vente"
-subtitle: "applicables depuis le 1er mai 2021"
+subtitle: "Applicables à compter du 1er mai 2021"
 # meta description
 description: "Conditions Générales de Vente"
 draft: false
