@@ -18,7 +18,7 @@
         {{ end }}
       </tr>
     {{ range $i,$row := .content }}
-      <tr  class="{{if modBool $i 2}}bg-light{{end}}">      
+      <tr  class="{{if modBool $i 2}}{{if modBool $j 2}}bg-dark{{else}}bg-light{{end}}{{end}}">      
         {{ range $i,$row := .row }}
         <td>{{ $row  | markdownify }}</td>
         {{ end }}

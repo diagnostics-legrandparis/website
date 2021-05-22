@@ -220,6 +220,9 @@ a:hover {
 .bg-light {
   background-color: #5b5b5b !important; }
 
+.bg-dark {
+  background-color: #4d4d4d !important; }
+
 .text-primary {
   color: #ff4d4d !important; }
 
