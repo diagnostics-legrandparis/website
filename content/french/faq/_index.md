@@ -12,7 +12,7 @@ Le diagnostiqueur doit répondre à des obligations de certification, d’assura
 {{</ faq >}}
 
 {{< faq "Le diagnostiqueur doit-il se déplacer ?" >}}
- Les diagnostics ne peuvent en aucun cas être réalisés sur la seule base des documents et indications fournies par le propriétaire. La réalisation des diagnostics immobiliers nécessite la venue du professionnel sur place.
+ Les diagnostics ne peuvent en aucun cas être réalisés sur la seule base des indications et documents fournis par le propriétaire. La réalisation des diagnostics immobiliers nécessite la venue du professionnel sur place.
 {{</ faq >}}
 
 {{< faq "Dois-je être présent lors de la réalisation des diagnostics ?" >}}
