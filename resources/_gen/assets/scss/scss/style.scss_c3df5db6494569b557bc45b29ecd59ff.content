@@ -304,10 +304,10 @@ textarea.form-control {
     color: #4d4d4d;
     background-color: #ff4d4d; }
 
-section a {
+.subsection a {
   color: #c7c7c7;
   border-bottom: 1px dotted #FFF; }
-  section a:hover {
+  .subsection a:hover {
     color: #ff4d4d; }
 
 a.post-title {
@@ -380,6 +380,10 @@ a.post-title {
 .content th:not(:last-of-type),
 .content td:not(:last-of-type) {
   border-right: 1px solid #FFF; }
+
+.content th:not(:first-child),
+.content td:not(:first-child) {
+  text-align: center; }
 
 .content th {
   font-weight: 600;

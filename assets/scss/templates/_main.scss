@@ -48,7 +48,7 @@
   }
 }
 
-section a {
+.subsection a {
   color: $text-color;
   border-bottom: 1px dotted $border-color;
 
@@ -150,6 +150,9 @@ a.post-title {
   td {
     &:not(:last-of-type) {
       border-right: 1px solid $border-color;
+    }
+    &:not(:first-child) {
+      text-align: center;
     }
   }
 

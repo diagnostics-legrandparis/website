@@ -7,8 +7,8 @@
 {{ if .enable }}
 {{ range $i,$p := .service_item }}
 {{if modBool $i 2}}
-<section class="section" id="{{ .link }}">
-  <div class="container">
+<section class="section bg-light" id="{{ .link }}">
+  <div class="container subsection">
     <div class="row align-items-center">
       <div class="col-md-6 order-2 order-md-1">
         <h2 class="section-title">{{ .title | markdownify }}</h2>
@@ -30,8 +30,8 @@
   </div>
 </section>
 {{ else }}
-<section class="section bg-light" id="{{ .link }}">
-  <div class="container">
+<section class="section" id="{{ .link }}">
+  <div class="container subsection">
     <div class="row align-items-center">
       <div class="col-md-6 mb-4 mb-md-0">
         <div {{if gt (len .images) 1}}class="slider" {{end}}>
