@@ -304,6 +304,12 @@ textarea.form-control {
     color: #4d4d4d;
     background-color: #ff4d4d; }
 
+section a {
+  color: #c7c7c7;
+  border-bottom: 1px dotted #FFF; }
+  section a:hover {
+    color: #ff4d4d; }
+
 a.post-title {
   color: #FFF;
   display: block; }
