@@ -8,6 +8,7 @@ draft: false
 tarrifs:
   tarrifs_items:
     - name: "DIAGNOSTICS IMMOBILIERS"
+      icon: "fas fa-pencil-ruler"
       subname: "Appartements & maisons"
       header: ['Tarifs TTC <br> Vente & Location', 'F1/F2', 'F3/F4', 'F5 à F7', 'Pièce <br> supplémentaire']
       content:
@@ -21,6 +22,7 @@ tarrifs:
       - row: ['État des Risques et Pollutions (ERP)', '30 €', '30 €', '30 €', '']
       additional_text: "* Tarif prélevement et analyse amiante: 70 € TTC/unité"
     - name: "ÉTATS DES LIEUX"
+      icon: "fas fa-home"
       subname: "Appartements & maisons"
       header: ['Tarifs TTC', 'Entrée & Sortie *']
       content:

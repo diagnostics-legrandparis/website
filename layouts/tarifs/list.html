@@ -5,10 +5,12 @@
 <!-- service -->
 {{ with .Params.tarrifs }}
 {{ range $j,$table := .tarrifs_items }}
-<section class="section">
+<section class="section {{if modBool $j 2}}bg-light{{end}}">
   <div class="container content">
-    <h4>{{.name}}</h4>
-    <h5>{{.subname}}</h5>
+    <div class="float-left table-title-logo"><i class="{{.icon}} mb-0 mr-3 mt-1"></i></div>
+    <div class="float-left"><h4 class="">{{.name}}</h4><h5>{{.subname}}</h5></div>
+    
+    
     <table>
       <tr>
         {{ range $i,$row := .header }}

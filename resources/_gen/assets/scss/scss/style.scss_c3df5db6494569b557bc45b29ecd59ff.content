@@ -282,6 +282,11 @@ textarea.form-control {
     color: #ff4d4d;
     display: inline-block; }
 
+.table-title-logo svg {
+  font-size: 50px;
+  color: #ff4d4d;
+  display: inline-block; }
+
 .footer-list a {
   display: block;
   padding: 5px 0;
