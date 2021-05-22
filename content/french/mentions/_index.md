@@ -32,14 +32,6 @@ Adresse de courrier électronique : contact@diagnostics-legrandparis.fr
 Responsable de publication : Julie Beausire
 
 #### Hébergeur du site
-OVH
+GitHub
 
-Siège social : 2 rue Kellermann - 59100 Roubaix - France
-
-SAS au capital de 500 000 €
-
-RCS Roubaix - Tourcoing 424 761 419 00045
-
-APE : 6202A
-
-N° TVA : FR22424761419
+Informations sur : https://github.com/
