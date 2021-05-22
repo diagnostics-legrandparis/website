@@ -2,7 +2,7 @@
 logo = "images/logo-web-transparent blanc.png"
 logo_width = "300px"
 # Meta data
-description = "This is meta description"
+description = "Diagnostics techniques immobiliers & États des lieux en Essonne, Yvelines, Hauts-de-Seine, Val-de-Marne"
 author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io

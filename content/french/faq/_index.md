@@ -2,7 +2,7 @@
 title: "Foire aux questions"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "Foire aux questions"
 draft: false
 ---
 
