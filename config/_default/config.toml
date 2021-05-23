@@ -26,6 +26,8 @@ border_color = "#FFF"
 black = "#000"
 white = "#4d4d4d"
 light = "#5b5b5b"
+logo_width = "300px"
+logo_width_mobile = "250px"
 
 # font variable
 # Give your font name from google font. add font weight using ":wght@" and separate by ";"

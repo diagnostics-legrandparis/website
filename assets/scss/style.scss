@@ -8,6 +8,9 @@ $border-color: {{.border_color | default "#ECECEC"}};
 $black: {{.black | default "#000"}};
 $white: {{.white | default "#fff"}};
 $light: {{.light | default "#EDF6F5"}};
+$logo-width: {{.logo_width | default "300px"}};
+$logo-width-mobile: {{.logo_width_mobile | default "250px"}};
+$light: {{.light | default "#EDF6F5"}};
 
 // Font Variables
 $primary-font: '{{ replaceRE ":[ital,]*wght@[0-9,;]+" "" .primary_font | default "Lato"}}', {{.primary_font_type | default "sans-serif"}};

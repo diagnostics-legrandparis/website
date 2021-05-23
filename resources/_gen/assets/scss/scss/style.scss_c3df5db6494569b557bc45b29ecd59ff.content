@@ -274,7 +274,9 @@ textarea.form-control {
       padding: 10px; } }
 .banner {
   padding: 100px 0 50px; }
-
+  @media (max-width: 575px) {
+    .banner {
+      padding: 50px 0 50px; } }
 .feature-card {
   border-radius: 10px;
   padding: 20px;
@@ -318,6 +320,14 @@ textarea.form-control {
   .subsection a:hover {
     color: #ff4d4d; }
 
+.navbar-light button.navbar-toggler {
+  color: #fff; }
+
+.navbar-brand img.img-fluid {
+  width: 300px; }
+  @media (max-width: 575px) {
+    .navbar-brand img.img-fluid {
+      width: 250px; } }
 a.post-title {
   color: #FFF;
   display: block; }

@@ -1,6 +1,9 @@
 // banner
 .banner {
   padding: 100px 0 50px;
+  @include mobile {
+    padding: 50px 0 50px;
+  }
 }
 
 .feature-card {
@@ -64,6 +67,17 @@
 
   &:hover {
     color: $primary-color;
+  }
+}
+
+.navbar-light button.navbar-toggler {
+  color: #fff;
+}
+
+.navbar-brand img.img-fluid {
+  width: $logo-width;
+  @include mobile {
+    width: $logo-width-mobile;
   }
 }
 
