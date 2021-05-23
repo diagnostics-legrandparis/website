@@ -384,7 +384,11 @@ a.post-title {
   padding: .75rem;
   vertical-align: top;
   margin-bottom: 0; }
-
+  @media (max-width: 767px) {
+    .content table td,
+    .content table th {
+      padding: .3rem;
+      min-width: 3.5rem; } }
 .content th:not(:last-of-type),
 .content td:not(:last-of-type) {
   border-right: 1px solid #FFF; }

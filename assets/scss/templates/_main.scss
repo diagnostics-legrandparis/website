@@ -154,6 +154,10 @@ a.post-title {
     padding: .75rem;
     vertical-align: top;
     margin-bottom: 0;
+    @include tablet {
+      padding: .3rem;
+      min-width: 3.5rem;
+    }
   }
 
   th,
