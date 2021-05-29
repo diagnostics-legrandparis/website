@@ -7,8 +7,7 @@ draft: false
 ---
 
 
-### Nous contacter directement
-**Contactez-nous :**
+### Nous contacter directement :
 
 * Tél.: 07 67 41 37 77
 * Email: contact@diagnostics-legrandparis.com
