@@ -26,8 +26,18 @@ weight = 5
 
 # footer menu left
 [[footer_left]]
-name = " "
-url = "#"
+name = "Socotec"
+url = "images/logosocotec.png"
+
+# footer menu left
+[[footer_left]]
+name = "FIDI"
+url = "images/logofidi.png"
+
+# footer menu left
+[[footer_left]]
+name = "MMA"
+url = "images/logomma.png"
 
 # footer menu middle
 [[footer_middle]]

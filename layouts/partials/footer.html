@@ -6,7 +6,9 @@
         <div class="h3 mb-4">{{ site.Params.footer_menu_left }}</div>
         <ul class="list-unstyled footer-list">
           {{ range site.Menus.footer_left }}
-          <li><a href="{{ .URL | relLangURL }}" title="{{ .Name }}">{{ .Name }}</a></li>
+          <div class="float-left m-2">
+              <img src="{{.URL }}" alt="{{ .Name }}"  width="130px">
+          </div>
           {{ end }}
         </ul>
         {{ end }}
