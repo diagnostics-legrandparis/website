@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "/"
 title = "Diagnostics Le Grand Paris"
 # post pagination
 paginate = "3"
