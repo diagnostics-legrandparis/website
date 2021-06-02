@@ -68,7 +68,7 @@
       </div>
       <div class="col-lg-5 col-md-6">
         <h2 class="section-title">{{ .title | markdownify }}</h2>
-        {{with .content }}<p class="mb-4">{{ . | markdownify }}</p>{{ end }}
+        {{with .content }}<div class="subsection"><p class="mb-4">{{ . | markdownify }}</p></div>{{ end }}
         {{ if .button.enable }}
         {{ with .button }}
         <a href="{{ .link | relURL }}" title="{{ .label }}" class="btn btn-primary">{{ .label }}</a>
