@@ -6,8 +6,8 @@
         <div class="h3 mb-4">{{ site.Params.footer_menu_left }}</div>
         <ul class="list-unstyled footer-list">
           {{ range site.Menus.footer_left }}
-          <div class="float-left m-2">
-              <img src="{{.URL }}" alt="{{ .Name }}"  width="130px">
+          <div class="footer-partner-logo">
+              <img class="m-1" src="{{.URL }}" alt="{{ .Name }}">
           </div>
           {{ end }}
         </ul>

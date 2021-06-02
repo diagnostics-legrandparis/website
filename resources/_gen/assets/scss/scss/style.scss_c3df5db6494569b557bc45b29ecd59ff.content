@@ -334,6 +334,10 @@ a.post-title {
   a.post-title:hover {
     color: #ff4d4d; }
 
+.footer-partner-logo img {
+  height: 60px;
+  float: left; }
+
 .content * {
   word-break: break-word;
   overflow-wrap: break-word;
