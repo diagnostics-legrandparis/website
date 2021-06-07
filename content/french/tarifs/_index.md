@@ -24,7 +24,7 @@ tarrifs:
     - name: "ÉTATS DES LIEUX"
       icon: "fas fa-home"
       subname: "Appartements & maisons"
-      header: ['Tarifs TTC', 'Entrée & Sortie *']
+      header: ['Tarifs TTC', 'Entrée / Sortie *']
       content:
       - row: ['F1', '150 €']
       - row: ['F2', '170 €']
