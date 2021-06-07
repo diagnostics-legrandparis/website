@@ -1,6 +1,6 @@
 ---
 title: "Nos Tarifs"
-subtitle: "Applicables à compter du 1er mai 2021"
+subtitle: "Applicables à compter du 1er juin 2021"
 # meta description
 description: "tarifs"
 draft: false
