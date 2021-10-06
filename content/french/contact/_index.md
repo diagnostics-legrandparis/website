@@ -10,5 +10,5 @@ draft: false
 ### Nous contacter directement :
 
 * Tél.: 07 67 41 37 77
-* Email: contact@diagnostics-legrandparis.com
+* Email: contact@diagnostics-legrandparis.fr
 * Adresse: 25 Rue des Bouleaux 91140 Villebon-sur-Yvette
