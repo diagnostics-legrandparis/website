@@ -36,8 +36,8 @@ url = "images/logofidi.png"
 
 # footer menu left
 [[footer_left]]
-name = "MMA"
-url = "images/logomma.png"
+name = "Cabinet Condorcet"
+url = "images/logocondorcet.JPG"
 
 # footer menu middle
 [[footer_middle]]

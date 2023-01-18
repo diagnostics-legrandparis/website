@@ -7,9 +7,9 @@ draft: false
 ---
 
 #### Informations Légales
-Statut du propriétaire : société
+Statut du propriétaire : Société
 
-Nom de la Société : Julie BEAUSIRE, Entreprise individuelle
+Nom de la Société : Julie BEAUSIRE, Entreprise Individuelle
 
 Siège social : 25 Rue des Bouleaux 91140 Villebon-sur-Yvette
 
