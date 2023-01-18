@@ -37,25 +37,6 @@ service:
         label : "Consultez nos tarifs"
         link : "tarifs"
     
-# service item loop
-    - title : "PLOMB"
-      link: "plomb"
-      images:
-      - "images/plomb1.jpg"
-      content : "Le constat des risques d’exposition au plomb (CREP) consiste à mesurer la concentration en plomb des revêtements du logement pour identifier ceux contenant du plomb et décrire leur état de conservation. Il sert également à repérer les situations de risque de saturnisme infantile ou de dégradation du logement. La recherche de canalisations en plomb ne fait pas partie du diagnostic plomb.
-      
-
-      Le CREP s'applique aux logements (appartement et maison individuelle) construits avant le 1er janvier 1949.
-      
-
-      En cas d’absence de revêtement contenant du plomb ou en présence de revêtements contenant du plomb à des concentrations inférieures au seuil réglementaire, la validité du CREP est illimitée.
-
-
-      En présence de revêtements contenant du plomb à des concentrations supérieures au seuil réglementaire (1mg/cm²), la durée validité du constat est de 1 an, en cas de vente, et de 6 ans en cas de location."
-      button:
-        enable : true
-        label : "Consultez nos tarifs"
-        link : "tarifs"
 
 
 

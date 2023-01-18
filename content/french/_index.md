@@ -25,16 +25,6 @@ feature:
         label : "En savoir plus"
         link : "amiante"
 
-    # feature item loop
-    - name : "PLOMB"
-      icon : "fas fa-paint-roller"
-      content : "Le constat des risques d’exposition au plomb (CREP) consiste à mesurer la concentration en plomb des revêtements du logement pour identifier ceux contenant du plomb et décrire leur état de conservation. Il sert également à repérer les situations de risque de saturnisme infantile ou de dégradation du logement.
-  
-      "
-      button:
-        enable : true
-        label : "En savoir plus"
-        link : "plomb"
       
     # feature item loop
     - name : "PERFORMANCE ÉNERGÉTIQUE (DPE)"
@@ -69,6 +59,8 @@ feature:
         enable : true
         label : "En savoir plus"
         link : "gaz"# feature item loop
+        
+    # feature item loop     
     - name : "TERMITES"
       icon : "fas fa-bug"
       content : "
@@ -142,6 +134,6 @@ call_to_action:
   contact@diagnostics-legrandparis.fr"
   button:
     enable : true
-    label : "Nous contacter"
+    label : "Contact"
     link : "contact"
 ---

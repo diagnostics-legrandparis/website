@@ -9,27 +9,23 @@ draft: false
 #### Informations Légales
 Statut du propriétaire : société
 
-Préfixe : SARL
-
-Nom de la Société : DIAGNOSTICS LE GRAND PARIS
+Nom de la Société : Julie BEAUSIRE, Entreprise individuelle
 
 Siège social : 25 Rue des Bouleaux 91140 Villebon-sur-Yvette
 
 Téléphone : 07 67 41 37 77
 
-RCS : 898 749 668 EVRY
+RCS : 948 106 919 EVRY
 
 APE : 7120B
 
-SIRET : 898 749 668 00015
+SIRET : 948 106 919 00012
 
-N° TVA : FR56898749668
-
-Capital : 500 €
+N° TVA : FR51948106919
 
 Adresse de courrier électronique : contact@diagnostics-legrandparis.fr
 
-Responsable de publication : Julie Beausire
+Responsable de publication : Julie BEAUSIRE
 
 #### Hébergeur du site
 GitHub

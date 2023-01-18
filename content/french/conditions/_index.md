@@ -1,13 +1,13 @@
 ---
 title: "Conditions Générales de Vente"
-subtitle: "Applicables à compter du 1er mai 2021"
+subtitle: "Applicables à compter du 02 janvier 2023"
 # meta description
 description: "Conditions Générales de Vente"
 draft: false
 ---
 
 #### DÉFINITIONS
-Société : DIAGNOSTICS LE GRAND PARIS, SARL au capital de 500 euros, située 25 Rue des Bouleaux 91140 VILLEBON-SUR-YVETTE, immatriculée au RCS d’EVRY sous le numéro SIRET 898 749 668 00015
+Société : Julie BEAUSIRE, Entreprise Individuelle, située 25 Rue des Bouleaux 91140 VILLEBON-SUR-YVETTE, immatriculée au RCS d’EVRY sous le numéro SIRET 948 106 919 00012
 
 Site internet : www.diagnostics-legrandparis.fr
 
@@ -52,7 +52,7 @@ Le Client s’engage à n’omette aucun lieu ou aucune partie à visiter et à 
 #### PAIEMENT
 Les prestations sont payables au comptant ou à la date figurant sur la facture. En cas de retard de paiement, des intérêts de retard de paiement seront appliqués conformément aux dispositions du Code du Commerce.
 
-Le paiement est accepté par virement bancaire ou par chèque à l’ordre de la SARL DIAGNOSTICS LE GRAND PARIS. Dans ce dernier cas, le paiement de la prestation doit être effectué en intégralité. 
+Le paiement est accepté par virement bancaire ou par chèque à l’ordre de "Julie BEAUSIRE, EI". Dans ce dernier cas, le paiement de la prestation doit être effectué en intégralité. 
 
 En cas de non-paiement, la Société se réserve le droit de rompre le contrat et d’engager les poursuites nécessaires.
 
