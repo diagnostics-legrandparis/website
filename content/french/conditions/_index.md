@@ -7,7 +7,7 @@ draft: false
 ---
 
 #### DÉFINITIONS
-Société : Julie BEAUSIRE, Entreprise Individuelle, située 25 Rue des Bouleaux 91140 VILLEBON-SUR-YVETTE, immatriculée au RCS d’EVRY sous le numéro SIRET 948 106 919 00012
+Société : Julie BEAUSIRE, Entreprise Individuelle, située 25 Rue des Bouleaux 91140 VILLEBON-SUR-YVETTE, SIRET N° 948 106 919 00012
 
 Site internet : www.diagnostics-legrandparis.fr
 

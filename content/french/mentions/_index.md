@@ -7,19 +7,15 @@ draft: false
 ---
 
 #### Informations Légales
-Statut du propriétaire : Société
-
-Nom de la Société : Julie BEAUSIRE, Entreprise Individuelle
+Propriétaire : Julie BEAUSIRE, Entreprise Individuelle
 
 Siège social : 25 Rue des Bouleaux 91140 Villebon-sur-Yvette
 
 Téléphone : 07 67 41 37 77
 
-RCS : 948 106 919 EVRY
+N° SIRET : 948 106 919 00012
 
 APE : 7120B
-
-SIRET : 948 106 919 00012
 
 N° TVA : FR51948106919
 
